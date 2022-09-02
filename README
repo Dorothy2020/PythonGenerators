@@ -1,0 +1,5 @@
+What are python Generators:
+Generators are function that returns an object that can be iterated over
+
+Use of Yields:
+Yield is a way of returning a value
